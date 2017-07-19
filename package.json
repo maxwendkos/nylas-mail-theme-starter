@@ -1,10 +1,10 @@
 {
   "name": "",
   "title": "",
-  "displayName": "",
+  "displayName": "Buddy Adoption",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "",
+  "description": "Buddy Adoption theme for Nylas Mail",
   "license": "GPL-3.0",
   "engines": {
     "nylas": "*"
